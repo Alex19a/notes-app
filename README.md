@@ -1,3 +1,5 @@
+# примечание сайт Code Climate не занимается больше оценкой кода 
+
 # Note-Keep — Full Stack Notes App
 
 A full-stack web application for creating, storing and managing personal notes. Users can register, securely log in, and perform full CRUD operations on their notes. Data is stored in a cloud PostgreSQL database.
